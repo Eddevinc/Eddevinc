@@ -1,4 +1,6 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm ((Eddevinc|Aditya)|https://github.com/Eddevinc)" title="👋 Hi there! I'm ((Eddevinc|Aditya Sethi)|https://github.com/Eddevinc)"/>]
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <!--
 **Eddevinc/Eddevinc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
