@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://tenor.com/search/coding-gifs" width="100"/>
+  <img src="https://tenor.com/search/coding-gifs" width="300"/>
 </div>
 
 <!--
