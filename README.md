@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://gfycat.com/flimsyfatglowworm-sayings-expressions-thomas-middleditch" width="350"/>
+  <img src="https://i.pinimg.com/originals/6a/af/34/6aaf342dfa5ab3e91e9a4f188fdf329a.gif" width="350"/>
 </div>
 
 <!--
