@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://hacktiv8.com/" width="200"/>
+  <img src="https://media3.giphy.com/media/iOdhk1BSNJ7PsQRUN3/giphy.gif?cid=ecf05e47p9zqcmmi7x0zkq9g2sy37atys5qhdu1akg1sw63o&rid=giphy.gif&ct=s" width="200"/>
 </div>
 
 <!--
